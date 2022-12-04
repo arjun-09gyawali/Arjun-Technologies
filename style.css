@@ -1,0 +1,11 @@
+table{
+    border:1px;
+    padding: 5px;
+
+}
+h1{
+    color: blueviolet;
+}
+tr,td,th{
+    border: 2px solid;
+}
